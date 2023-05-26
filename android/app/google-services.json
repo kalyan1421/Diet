@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "146793133571",
+    "project_id": "diettest1-430b9",
+    "storage_bucket": "diettest1-430b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146793133571:android:61955bb9dc72cf2b1ec036",
+        "android_client_info": {
+          "package_name": "com.example.diettest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146793133571-p9epnq6806mmstmv49m2vgqv09ee20ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmTEBNcUyScHFsBYYoKyWWpNoSKtjPz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146793133571-p9epnq6806mmstmv49m2vgqv09ee20ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "146793133571-680u42fidp213dv4dg5c1avrmgf6n30t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diettest1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
